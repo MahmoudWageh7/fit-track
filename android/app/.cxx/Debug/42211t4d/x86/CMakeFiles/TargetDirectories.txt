@@ -1,0 +1,2 @@
+C:/Users/Access/Desktop/FitTrack-master/android/app/.cxx/Debug/42211t4d/x86/CMakeFiles/edit_cache.dir
+C:/Users/Access/Desktop/FitTrack-master/android/app/.cxx/Debug/42211t4d/x86/CMakeFiles/rebuild_cache.dir
