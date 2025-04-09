@@ -8,10 +8,5 @@ import 'fit_track_app.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await AppIntialization.initializer();
-  runApp(
-    DevicePreview(
-      enabled: false,
-      builder: (context) => FitTrackApp(),
-    ),
-  );
+  runApp(const FitTrackApp());
 }
