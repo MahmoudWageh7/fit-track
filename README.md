@@ -1,4 +1,4 @@
-# news_app
+# Fit Track
 
 A new Flutter project.
 
